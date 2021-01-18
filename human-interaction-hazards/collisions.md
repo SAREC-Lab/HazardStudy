@@ -3,7 +3,7 @@
 ### Description: 
 Collisions must be avoided between multiple UAVs, UAVs and other objects, and UAVs and the terrain.
 
-### Overview: 
+### User Hazards: 
 
 | Type | Hazards | Description |
 |:--:|:--|:--|
