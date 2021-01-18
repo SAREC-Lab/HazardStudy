@@ -24,9 +24,8 @@
 
 The use case describes... Multiple UAVs dispatched to search for victim in river or finding the victim under the ice.
 
-| Use Case      | Description                 | Contrib. Stakeholders              | Main Use Case  |
-| ------------- |-------------                    | -----                              |            -----|    
-| UC1           | River and Ice Search & Rescue           | South Bend Firefighters |[RiverRescue.md](usecases/main/RiverRescue.md ) 
+[UC1 River and Ice Search & Rescue](usecases/main/RiverRescue.md ) 
+
 
 
 ### Supporting Use Cases
