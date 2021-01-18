@@ -1,7 +1,9 @@
 # Use Cases for Emergency Response Missions with Small Unmanned Aerial Systems
 
 
-### Main Use Cases
+### Main Use Case
+
+The use case describes... Multiple UAVs dispatched to search for victim in river or finding the victim under the ice.
 
 | Use Case      | Description                 | Contrib. Stakeholders              | Main Use Case  |
 | ------------- |-------------                    | -----                              |            -----|    
