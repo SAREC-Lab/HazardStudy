@@ -7,7 +7,7 @@ Collisions must be avoided between multiple UAVs, UAVs and other objects, and UA
 
 | Type | Hazards | Description |
 |:--:|:--|:--|
-| <sub>![](icons/s-icon.PNG)</sub> | FX1| The operator is unaware that the UAV is flying too close to the terrain |
+| <sub>![](icons/s-icon.PNG)</sub> | [FX1](#-fx1-the-operator-is-unaware-that-the-uav-is-flying-too-close-to-the-terrain)| The operator is unaware that the UAV is flying too close to the terrain |
 | <sub>![](icons/e-icon.PNG)</sub>|FX2| The operator has no means of overriding the onboard autonomy and/or cannot do so quickly enough in order to avoid a collision with the terrain|
 | <sub>![](icons/h-icon.PNG)</sub>|FX3| When the operator assumes manual control during the mission and switches (e.g., throttle) are set incorrectly, the UAV responds dramatically (e.g., plunging to the ground).|
 | <sub>![](icons/s-icon.PNG)</sub>|FX4| The operator is unaware that the switches are set incorrectly.|
