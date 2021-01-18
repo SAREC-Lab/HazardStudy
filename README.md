@@ -1,4 +1,23 @@
-# Use Cases for Emergency Response Missions with Small Unmanned Aerial Systems
+## Mapping User Hazards for Emergency Response Missions with UAVs
+
+
+### Hazard Categories
+
+| Hazard Group | Description |
+|:--|:--|
+|[HG1 - Collisions](human-interaction-hazards/collisions.md)| Hazards related to collisions between multiple UAVs and/or UAVs and other objects|
+|[HG2 - Communication](human-interaction-hazards/communication.md)| Loss of communication with the UAV |
+|[HG3 - Hardware/Sensors](human-interaction-hazards/sensors.md)| Hardware and sensors |
+|[HG4 - Mission Awareness](human-interaction-hazards/missionawareness.md)|Hazards associated with general situational awareness and operator empowerment during a mission| 
+|[HG5 - Mission Planning](human-interaction-hazards/missionplanning.md)| Hazards related to planning and managing flight routes |
+|[HG6 - Preflight Configuration](human-interaction-hazards/preflightchecks.md)|Prelaunch hazards|[preflightchecks.md]
+|[HG7 - Regulatory Compliancev](human-interaction-hazards/prohibited-airspace.md)| Hazards related to flight authorization and other regulations|
+|[HG8 - Weather related](human-interaction-hazards/weather.md)| Weather related hazards |
+
+
+
+<br><br><br><br>
+
 
 
 ### Main Use Case
@@ -34,16 +53,5 @@ The use case describes... Multiple UAVs dispatched to search for victim in river
 |  EC3   | Low Battery |[LowBattery.md](usecases/general_exceptions/LowBattery.md)|
 
 
-### Hazard Groupings
 
-| Hazard Group | Description |Link to Hazard Information ||
-|:--|:--| :--|:--|
-|HG1 - Collisions| Hazards related to collisions between multiple UAVs and/or UAVs and other objects|[collisions.md](human-interaction-hazards/collisions.md)|:heavy_check_mark:|
-|HG2 - Communication| Loss of communication with the UAV |[communication.md](human-interaction-hazards/communication.md)|:heavy_check_mark:||
-|HG3 - Hardware/Sensors| Hardware and sensors |[sensors.md](human-interaction-hazards/sensors.md)|:heavy_check_mark:|
-|HG4 - Mission Awareness|Hazards associated with general situational awareness and operator empowerment during a mission| [missionawareness.md](human-interaction-hazards/missionawareness.md)|:heavy_check_mark:|
-|HG5 - Mission Planning| Hazards related to planning and managing flight routes |[missionplanning.md](human-interaction-hazards/missionplanning.md)|:heavy_check_mark:|
-|HG6 - Preflight Configuration|Prelaunch hazards|[preflightchecks.md](human-interaction-hazards/preflightchecks.md)|:heavy_check_mark:|
-|HG7 - Regulatory Compliance| Hazards related to flight authorization and other regulations|[prohibited-airspace.md](human-interaction-hazards/prohibited-airspace.md)|:heavy_check_mark:|
-|HG8 - Weather related| Weather related hazards |[weather.md](human-interaction-hazards/weather.md)|:heavy_check_mark:||
 
