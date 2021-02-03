@@ -9,7 +9,7 @@ Collisions must be avoided between multiple UAVs, UAVs and other objects, and UA
 ___
 
 __HG2: Hazards related to Loss of communication with the UAV__
-[[Hazard Tree]](human-interaction-hazards/collisions.md)
+[[Hazard Tree]](human-interaction-hazards/communication.md)
 
 One of the most common causes of accidents with UAVs is caused by loss-of-signal preventing the remote pilot (RPIC) from sending commands to the UAV or receiving status updates. RPICs communicate with their UAV by sending commands through a hand-held-controller (i.e., throttle, forward, backward, sideways, turn) or through use of a computer system (e.g., MissionPlanner, QGroundControl, or custom built software) operating over an alternate communication technique or frequency. Hazard mitigations are dependent upon the operating context -- specifically whether redundant communication paths exist, and whether the loss of signal is caused by a fault on the UAV or a communication failure.
 ___
