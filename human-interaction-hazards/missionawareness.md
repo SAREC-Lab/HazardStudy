@@ -1,4 +1,4 @@
-## Hazard Tree:  Mission Awareness
+## Hazard Tree:  Inflight Mission Awareness
 
 [![](figures/missionawareness.png)](#)
 
