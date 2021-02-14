@@ -3,18 +3,6 @@
 ### Description: 
 Collisions must be avoided between multiple UAVs, UAVs and other objects, and UAVs and the terrain.
 
-### User Hazards: 
-
-| Type | Hazards | Description |
-|:--:|:--|:--|
-| <sub>![](icons/s-icon.PNG)</sub> | [FX1](#-fx1-the-operator-is-unaware-that-the-uav-is-flying-too-close-to-the-terrain)| The operator is unaware that the UAV is flying too close to the terrain |
-| <sub>![](icons/e-icon.PNG)</sub>|FX2| The operator has no means of overriding the onboard autonomy and/or cannot do so quickly enough in order to avoid a collision with the terrain|
-| <sub>![](icons/h-icon.PNG)</sub>|FX3| When the operator assumes manual control during the mission and switches (e.g., throttle) are set incorrectly, the UAV responds dramatically (e.g., plunging to the ground).|
-| <sub>![](icons/s-icon.PNG)</sub>|FX4| The operator is unaware that the switches are set incorrectly.|
-| <sub>![](icons/s-icon.PNG)</sub>|FX5| When the operator assumes manual control of the UAV, they do not know how the UAV is oriented (i.e., which direction the UAV is facing) and find it difficult to immediately control the UAV.|
-| <sub>![](icons/s-icon.PNG)</sub>|FX6| The operator is unaware that GPS accuracy is degraded and that UAVs are in danger of mid-air collisions.|
-| <sub>![](icons/h-icon.PNG)</sub>|FX7| The technician has assigned the same RTL altitude for multiple UAVs (See preflight configuration)|
-
 [![](figures/collisions.png)](#)
 
 Return to [hazard list](../README.md)<br>
